@@ -22,6 +22,9 @@
 * [Подкаст Podlodka#67. Никита Маклахов. Личная эффективность](https://soundcloud.com/podlodka/podlodka-67-lichnaya-effektivnost)
 * [Azeria labs. The importance of deep work and the 30-hour method for learning a new skill](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/)
 
+### Research
+* [Research Design Patterns](https://pg.ucsd.edu/research-design-patterns.htm)
+
 ### Learn English
 * [Luke's ENGLISH Podcast](https://teacherluke.co.uk/)
 
