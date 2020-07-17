@@ -7,6 +7,7 @@
 * [James Kettle. So you want to be a web security researcher?](https://portswigger.net/blog/so-you-want-to-be-a-web-security-researcher)
 
 ### Slides
+* [D. Kolegov. How to Become a Security Researcher](/become_researcher_nsu.pdf) (NSU's Crypto Summer School 2020, RU).
 * [O. Broslavsky, D. Kolegov. How to Become a Security Researcher](/How-to-Become-a-Security-Researcher.pdf) (SibeCrypt 2017, RU).
 
 ### Видео
